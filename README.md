@@ -1,3 +1,6 @@
 # hellow-world
-Just another repository
-README edited.
+==============
+
+Hi humans!
+
+This is an edit.
